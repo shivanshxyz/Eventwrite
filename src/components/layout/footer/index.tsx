@@ -10,7 +10,7 @@ const Footer = () => {
       justifyContent="center"
       >
         <Text fontSize={"1rem"}>
-            Made with ❤️ at MLH Hack The Plan.
+            Made with ❤️ for Appwrite Hackahton.
         </Text>
       </Flex>
     </>

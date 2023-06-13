@@ -12,8 +12,8 @@ const HomePage: NextPage<HomePageProps> = () => {
   return <div className="center h-screen w-screen">
     <Navbar />
     <BaseHero />
-    <Features />
-    <Events />
+    {/* <Features /> */}
+    {/* <Events /> */}
     <Footer />
   </div>
 }

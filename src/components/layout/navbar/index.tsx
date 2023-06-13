@@ -102,7 +102,7 @@ const Navbar = () => {
           w="100%"
           ml={[0, 0, 0, "md"]}
         >
-          <Menu>
+          {/* <Menu>
             <MenuButton as={Box} mx="5" fontSize={20}>
               Menu ▼
             </MenuButton>
@@ -129,7 +129,7 @@ const Navbar = () => {
                 )
               })}
             </MenuList>
-          </Menu>
+          </Menu> */}
           <Spacer />
           <Button
             onClick={() => {
